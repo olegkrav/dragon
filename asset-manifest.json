@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9164a233.css",
+    "main.js": "./static/js/main.e97967ad.js",
+    "static/media/Nozhik-Bold.otf": "./static/media/Nozhik-Bold.3d1f2b485f094ec8a8d3.otf",
+    "index.html": "./index.html",
+    "main.9164a233.css.map": "./static/css/main.9164a233.css.map",
+    "main.e97967ad.js.map": "./static/js/main.e97967ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9164a233.css",
+    "static/js/main.e97967ad.js"
+  ]
+}
