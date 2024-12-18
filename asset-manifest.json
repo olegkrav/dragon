@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.ed45d2c7.css",
-    "main.js": "./static/js/main.5d256708.js",
+    "main.js": "./static/js/main.04d5e21c.js",
     "static/media/Nozhik-Bold.otf": "./static/media/Nozhik-Bold.3d1f2b485f094ec8a8d3.otf",
     "index.html": "./index.html",
     "main.ed45d2c7.css.map": "./static/css/main.ed45d2c7.css.map",
-    "main.5d256708.js.map": "./static/js/main.5d256708.js.map"
+    "main.04d5e21c.js.map": "./static/js/main.04d5e21c.js.map"
   },
   "entrypoints": [
     "static/css/main.ed45d2c7.css",
-    "static/js/main.5d256708.js"
+    "static/js/main.04d5e21c.js"
   ]
 }
